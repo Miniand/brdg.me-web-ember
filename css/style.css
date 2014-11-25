@@ -4,7 +4,7 @@ pre {
 	font-family: Courier New, monospace, Segoe UI Symbol;
 	white-space: pre-wrap;
 }
-#historydata{
+.game-log {
 	max-height:700px;
     overflow:auto;
 }
